@@ -1,2 +1,5 @@
 auth/node_modules
 auth/package-lock.json
+postgres/node_modules
+postgres/package-lock.json
+postgres/.env
